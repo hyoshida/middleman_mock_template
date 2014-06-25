@@ -17,3 +17,8 @@
 
 # Ignore .DS_store file
 .DS_Store
+
+# Ignore node.js files
+/npm-debug.log
+/node_modules
+/bower_components
