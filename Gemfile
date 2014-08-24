@@ -15,3 +15,6 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 # Template engines
 gem "slim"
+
+# For generate securet key
+gem "travis"
